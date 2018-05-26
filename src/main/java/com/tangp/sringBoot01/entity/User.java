@@ -54,5 +54,7 @@ public class User {
 		}
 		System.out.println("我是master111");
 		System.out.println("我是github ---master");
+		System.out.println("我是master222");
+		System.out.println("我是github ---master222");
 	}
 }
