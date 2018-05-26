@@ -53,5 +53,6 @@ public class User {
 			new Thread(new ThreadTest(user)).start();
 		}
 		System.out.println("我是master111");
+		System.out.println("我是github ---master");
 	}
 }
