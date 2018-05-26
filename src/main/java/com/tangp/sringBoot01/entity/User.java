@@ -51,6 +51,8 @@ public class User {
 			user.setAge(i);
 			System.out.println(Thread.currentThread().getId());
 			new Thread(new ThreadTest(user)).start();
+
+			System.out.println("dev打印");
 		}
 	}
 }
