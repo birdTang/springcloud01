@@ -52,5 +52,6 @@ public class User {
 			System.out.println(Thread.currentThread().getId());
 			new Thread(new ThreadTest(user)).start();
 		}
+		System.out.println("我是master111");
 	}
 }
